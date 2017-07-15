@@ -27,6 +27,11 @@
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {}
+    }
+  },
   "booleanOperation": -1,
   "edited": false,
   "path": {
@@ -46,7 +51,7 @@
       },
       {
         "_class": "curvePoint",
-        "cornerRadius": 0,
+        "cornerRadius": 100,
         "curveFrom": "{1, 0}",
         "curveMode": 1,
         "curveTo": "{1, 0}",
